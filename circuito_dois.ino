@@ -8,7 +8,6 @@ int people = 0;
 int botao = 0;
 int botao2 = 0;
 
-
 void setup()
 {
   pinMode(ledGreen, OUTPUT);
